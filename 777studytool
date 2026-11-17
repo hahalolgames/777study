@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Tab</title>
+    <!-- Link to your external CSS file -->
+    <link rel="stylesheet" href="coolstyle777.css">
+</head>
+<body>
+
+    <header>
+        <h1>777studygame</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <iframe src="https://www.retrogames.cc/embed/46522-mario-builder-64.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" allow="cross-origin-isolated"></iframe>
+            <h2>About This Page</h2>
+            <p>Tools</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 School</p>
+    </footer>  
+</body>
+</html>
